@@ -1,0 +1,5 @@
+[project]
+name = "1c-mcp"
+version = "0.1.0"
+description = "Curated list of MCP servers for 1C:Enterprise ecosystem | Каталог MCP-серверов для экосистемы 1С:Предприятие"
+requires-python = ">=3.10"
