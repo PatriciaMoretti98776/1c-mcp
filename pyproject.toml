@@ -5,3 +5,4 @@ description = "Curated list of MCP servers for 1C:Enterprise ecosystem | Кат�
 requires-python = ">=3.10"
 # clarify the control flow
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
